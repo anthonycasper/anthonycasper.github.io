@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anthonycasper.github.io/static/css/main.5154f3d7.css",
+    "main.js": "/anthonycasper.github.io/static/js/main.b60728b3.js",
+    "index.html": "/anthonycasper.github.io/index.html",
+    "main.5154f3d7.css.map": "/anthonycasper.github.io/static/css/main.5154f3d7.css.map",
+    "main.b60728b3.js.map": "/anthonycasper.github.io/static/js/main.b60728b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5154f3d7.css",
+    "static/js/main.b60728b3.js"
+  ]
+}
